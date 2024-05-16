@@ -1,4 +1,4 @@
-# DesignTurb: Vortex Construction Tool
+# DesignTurb: Construction of Complex Vortices
 
 ## Description
 DesignTurb offers a versatile method for constructing the vorticity of vortex tubes with customizable centerline topology, differential twist, and variable thickness. This tool is ideal for designing classical turbulence fields, conceptualized with quantum vortex tangles as the core framework and complemented with customizable vortices as modular elements. This approach allows for free and precise adjustment on the distribution and shape of elemental vortices. The code is written in FORTRAN and supports MPI parallel computing. If you are interested in using the code for your own research, please contact yyg@pku.edu.cn for more details.
@@ -25,5 +25,7 @@ W. Shen, J. Yao, and Y. Yang, "Weaving classical turbulence with quantum skeleto
 W. Shen, J. Yao, F. Hussain, and Y. Yang, “Role of internal structures within a vortex in helicity dynamics”, J. Fluid Mech., 970, A26 (2023). [JFM](https://doi.org/10.1017/jfm.2023.620)
 
 W. Shen, J. Yao, F. Hussain, and Y. Yang, “Topological transition and helicity conversion of	vortex knots and links”, J. Fluid Mech., 943, A41 (2022). [JFM](https://doi.org/10.1017/jfm.2022.464)
+
+S. Xiong, Y. Yang, “Effects of twist on the evolution of knotted magnetic flux tubes”, J. Fluid Mech., 895, A28 (2020). [JFM](https://doi.org/10.1017/jfm.2020.327)
 
 S. Xiong, Y. Yang, “Construction of knotted vortex tubes with the writhe-dependent helicity”, Phys. Fluids, 31, 047101 (2019). [POF](https://doi.org/10.1063/1.5088015)
