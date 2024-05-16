@@ -21,6 +21,9 @@ The centerline data file should be organized in order by the following parameter
 
 ## Reference
 W. Shen, J. Yao, and Y. Yang, "Weaving Classical Turbulence with Quantum Skeleton" (2024). [arXiv:2401.11149](https://arxiv.org/abs/2401.11149)
+
 W. Shen, J. Yao, F. Hussain, and Y. Yang, “Role of internal structures within a vortex in helicity dynamics”, Journal of Fluid Mechanics, 970, A26 (2023). [JFM](https://doi.org/10.1017/jfm.2023.620)
+
 W. Shen, J. Yao, F. Hussain, and Y. Yang, “Topological transition and helicity conversion of	vortex knots and links”, Journal of Fluid Mechanics, 943, A41 (2022). [JFM](https://doi.org/10.1017/jfm.2022.464)
+
 S. Xiong, Y. Yang, “Construction of knotted vortex tubes with the writhe-dependent helicity”, Physics of Fluids, 31, 047101 (2019). [POF](https://doi.org/10.1063/1.5088015)
