@@ -19,7 +19,7 @@ The centerline data file should be organized in order by the following parameter
 - `cyall(i)`: y-coordinates of discrete points
 - `czall(i)`: z-coordinates of discrete points
 
-## Reference
+## References
 W. Shen, J. Yao, and Y. Yang, "Weaving classical turbulence with quantum skeleton" (2024). [arXiv:2401.11149](https://arxiv.org/abs/2401.11149)
 
 W. Shen, J. Yao, F. Hussain, and Y. Yang, “Role of internal structures within a vortex in helicity dynamics”, J. Fluid Mech., 970, A26 (2023). [JFM](https://doi.org/10.1017/jfm.2023.620)
