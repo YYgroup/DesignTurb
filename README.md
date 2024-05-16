@@ -7,7 +7,7 @@ DesignTurb offers a versatile method for constructing the vorticity of vortex tu
 - **Profile Shape**: Modify the profile shape of vortices via the `tpFunc` subroutine.
 - **Thickness Distribution**: Adjust the thickness along the centerlines in the `sigmaFunc` subroutine.
 - **Twist Distribution**: Change the twist distribution along the centerlines using the `etaFunc` subroutine.
-- **Centerline Data**: Input as discrete points, exemplified in `TrefoilCenterline.dat` for a trefoil knot and `QTCenterline.dat` for entangled vortices. Entangled centerline can be obtained from superfluid simulation based on the vortex filament method (see [qvort] (https://github.com/abag/qvort) on GitHub).
+- **Centerline Data**: Input as discrete points, exemplified in `TrefoilCenterline.dat` for a trefoil knot and `QTCenterline.dat` for entangled vortices. Entangled centerline can be obtained from superfluid simulation based on the vortex filament method (see [qvort](https://github.com/abag/qvort) on GitHub).
 
 The code transforms discrete control points on centerlines into cubic spline curves, defined by polynomial parametric equations. It then constructs a 3D vorticity field for vortex tubes within a periodic box, translating curved cylindrical coordinates to Cartesian coordinates. The process ensures the vector field adheres to periodic boundary conditions.
 
