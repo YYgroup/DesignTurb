@@ -421,7 +421,7 @@ program turbvsf
                                     t1 = (meshx(i, j, k) - ci1(1)) * tci0(1) + &
                                         &(meshy(i, j, k) - ci1(2)) * tci0(2) +  &
                                         &(meshz(i, j, k) - ci1(3)) * tci0(3)
-                                    zeta = (s0 * t0 - s1 * t1) / ndci0
+                                    zeta = (s1 * t0 - s0 * t1) / ndci0
                                     call curve(m,zeta, czeta,npoint,cx,cy,cz,cze,ckx,cky,ckz,lx,ly,lz)
                                     call d1curve(m,zeta, dczeta,npoint,cx,cy,cz,cze,ckx,cky,ckz,lx,ly,lz)
                                     call d2curve(m,zeta, ddczeta,npoint,cx,cy,cz,cze,ckx,cky,ckz,lx,ly,lz)
