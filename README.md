@@ -20,7 +20,7 @@ The centerline data file should be organized in order by the following parameter
 - `czall(i)`: z-coordinates of discrete points
 
 ## References
-W. Shen, J. Yao, and Y. Yang, "Designing turbulence with entangled vortices", Proc. Natl. Acad. Sci. U.S.A. (In Press). [arXiv:2401.11149](https://arxiv.org/abs/2401.11149)
+W. Shen, J. Yao, and Y. Yang, "Designing turbulence with entangled vortices", Proc. Natl. Acad. Sci. U.S.A., 121, e2405351121 (2024). [PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2405351121)
 
 W. Shen, J. Yao, F. Hussain, and Y. Yang, “Role of internal structures within a vortex in helicity dynamics”, J. Fluid Mech., 970, A26 (2023). [JFM](https://doi.org/10.1017/jfm.2023.620)
 
